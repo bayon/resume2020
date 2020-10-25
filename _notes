@@ -1,4 +1,9 @@
 Building The Website Notes: 
+Basically this is a standard (static) typescript react app deployed via Digital Ocean Apps, which 
+deploys automatically when changes are successfully merged into the 'main' branch. 
+
+A series of problems that had to be solved along the way.
+
 step 1) https://create-react-app.dev/docs/adding-typescript/
 	yarn create react-app my-app --template typescript
 	yarn
@@ -15,6 +20,22 @@ Repo:
 https://github.com/bayon/resume2020
 
 
+Git Issue: ( problem merging unrelated histories)
+https://www.educative.io/edpresso/the-fatal-refusing-to-merge-unrelated-histories-git-error
+
+Next Steps: 
+create an api ? or read from a json file ? 
+
+Found simple Express API by Rweiruch
+https://github.com/rwieruch/node-express-server-rest-api
+
+install npm on droplet:
+https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-18-04
 
 
+Postman: 
+tried the post and get method for messages as described on the 'repo' and success. 
 
+next: can I access it from the static app ? 
+
+stop:here: 
