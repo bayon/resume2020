@@ -1,0 +1,20 @@
+Building The Website Notes: 
+step 1) https://create-react-app.dev/docs/adding-typescript/
+	yarn create react-app my-app --template typescript
+	yarn
+	yarn start
+
+step 2) 
+could not access to push up so get personal access token
+
+Directions How TO Get Token: 
+https://medium.com/@ginnyfahs/github-error-authentication-failed-from-command-line-3a545bfd0ca8 
+
+
+Repo:
+https://github.com/bayon/resume2020
+
+
+
+
+
